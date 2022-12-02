@@ -1,0 +1,9 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"J1";"PinHeader_1x04_P2.54mm_Vertical";1;"Radio";;;
+2;"C1,C2,C3";"CP_Radial_D4.0mm_P2.00mm";3;"1.5";;;
+3;"J3";"PinHeader_2x01_P2.54mm_Vertical";1;"Aux";;;
+4;"J2";"AUDIO JACKS";1;"Sound Card";;;
+5;"R5,R4";"R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical";2;"2K";;;
+6;"Q2,Q1";"TO-92_Inline";2;"2N3904";;;
+7;"R1,R2";"R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical";2;"10K";;;
+8;"R7,R3,R6";"R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical";3;"4.7K";;;
