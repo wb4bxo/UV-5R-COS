@@ -8,5 +8,5 @@ https://www.ebay.com/itm/CM108-USB-Drive-Free-Sound-Card-Laptop-Computer-Externa
  
 Also note there is no activity detection nor time out timer in this circuit, so I leave the TOT of the attached radio set to something appropriate in case things get hung up in transmit. And as with other interfaces, make sure to keep the RF from the attached HT from getting back into the RPi.
 
-Here is a link to some pictures and such as it progressed. The folder of this bersion is PCB-02.
+Here is a link to some pictures and such as it progressed. The folder of this version is PCB-02.
 https://www.dropbox.com/scl/fo/ijx6qdvklskfgv19kaams/ABsIuqHEEbqoYNm4X1Uc1b4?rlkey=346zcdpkfad4y5mk4jwmj165i&dl=0
